@@ -10,7 +10,7 @@ Para instalar os pacotes:
 Para iniciar em modo de desenvolvimento:
 `npm start`
 
-Para acessar a página em produção [clique aqui](#)
+Para acessar a página em produção [clique aqui](https://ecommerce-hc-mercadinho.netlify.app/)
 
 ### A aplicação
 
