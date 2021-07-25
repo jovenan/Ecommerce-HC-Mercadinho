@@ -1,0 +1,63 @@
+[
+    {
+    "id": 1,
+    "name": "Bolo Simples",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/bolo-simples-e-fofo.jpg",
+    "price": 9.83
+  }, {
+    "id": 2,  
+    "name": "Pimenta Cubana",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5V43dLijrQ2bh7APsd5SziDsNkoVfx60Nhw&usqp=CAU",
+    "price": 16.69
+  }, {
+    "id": 3,
+    "name": "Refresco de limão",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyEZv28y6ZgqQlYvST4qq8MYWuWtR9x_M9j3Hk-eX6RPtb0s9aTpX0rP2p9YAOMpG1lOY&usqp=CAU",
+    "price": 8.02
+  }, {
+    "id": 4,
+    "name": "Doce de Chocolate",
+    "image": "https://uploads.metropoles.com/wp-content/uploads/2019/11/18110643/chocolateantidoce.jpeg",
+    "price": 28.29
+  }, {
+    "id": 5,
+    "name": "Biscoito Calipso",
+    "image": "https://images.tcdn.com.br/img/img_prod/760835/biscoito_calipso_leite_122_1_20200318215051.jpg",
+    "price": 20.08
+  }, {
+    "id": 6,
+    "name": "Queijo Ricota",
+    "image": "https://www.kitchenkonfidence.com/wp-content/uploads/2012/04/HomemadeRicottaCheese1-500x432.jpg",
+    "price": 37.88
+  }, {
+    "id": 7,
+    "name": "Porco temperado com limão",
+    "image": "https://lh4.ggpht.com/_V0CoK16CILc/S5ggGMZXvzI/AAAAAAAAIXg/rROBJ3jmeB4/s800/%E6%AA%B8%E6%AA%AC%E8%B1%AC%E6%89%92%20Lemon%20Pork%20Chops.jpg",
+    "price": 59.29
+  }, {
+    "id": 8,
+    "name": "Pacote de ração de 1 kg para cachorro",
+    "image": "https://static1.casapraticaqualita.com.br/articles/7/10/27/@/1205-e-preciso-ficar-atento-para-nao-dar-raca-article_content_img-2.jpg",
+    "price": 43.28
+  }, {
+    "id": 9,
+    "name": "Sopa de cebola",
+    "image": "https://www.sumerbol.com.br/uploads/images/2018/09/1536177572.jpg",
+    "price": 13.73
+  }, {
+    "id": 10,
+    "name": "Toalha de mesa 1,20x1,20",
+    "image": "https://ddfc4fe9cdc405be1bb0-b13d90b467bb429b71f0be9d3387d7a1.ssl.cf1.rackcdn.com/45000/45516/web_white_tablecloth.jpg",
+    "price": 38.1
+  }, {
+    "id": 11,
+    "name": "Óleo de Gergilim",
+    "image": "https://i1.wp.com/vitalatman.com.br/blog/wp-content/uploads/2020/03/oleo-de-gergelim-e-seus-beneficios-2-1.jpg?fit=600%2C600&ssl=1",
+    "price": 33.86
+  }, {
+    "id": 12,
+    "name": "Molho Shoyo",
+    "image": "https://tirarmancha.com/wp-content/uploads/2020/08/como-tirar-mancha-de-molho-shoyu-do-sofa-carpete-roupa.jpg",
+    "price": 21.44
+  }
+]
