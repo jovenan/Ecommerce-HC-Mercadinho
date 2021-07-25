@@ -2,12 +2,15 @@
 ## Ecommerce Mercadinho Online
 
 Para iniciar o desenvolvimento, é necessário clonar o projeto do Github em um diretório de sua preferência: 
+
 `git clone https://github.com/jovenan/Ecommerce-HC-Mercadinho.git`
 
 Para instalar os pacotes:
+
 `npm i`
 
 Para iniciar em modo de desenvolvimento:
+
 `npm start`
 
 Para acessar a página em produção [clique aqui](https://ecommerce-hc-mercadinho.netlify.app/)
