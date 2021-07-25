@@ -7,13 +7,13 @@ import Login from './Pages/Login';
 
 export default function Routes() {
     return (
-        <BrowserRouter>
+        <HashRouter>
             <Switch>
                 <Route path='/' exact component={Home} />
                 <Route path='/cart' exact component={Cart} />
                 <Route path='/cadastrar' exact component={Register} />
                 <Route path='/login' exact component={Login} />
             </Switch>
-        </BrowserRouter>
+        </HashRouter>
     )
 }
